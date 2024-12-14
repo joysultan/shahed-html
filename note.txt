@@ -1,0 +1,94 @@
+a **
+p **
+h1-h6 **
+span **
+div **
+img **
+button **
+form **  problem
+br **
+semantic markup:
+
+section
+nav = menu
+main = skip
+footer = down
+ul:
+ol:
+
+
+
+
+
+
+css:
+class: **
+id: **
+width: **
+height: **
+color: **
+bg-color: **
+font-size: **
+font-weight: **
+font-style: **
+text-transform: **
+text-align: **
+text-decoration: **
+font-family: :
+margin: **
+padding: **
+div: division /// dibba **
+flex: **
+justify-content: center **, space-between, space-around, flex-end, flex-start:
+flex-direction:row,column,row-reverse,column-reverse
+align-items:
+bg-image:
+bg-reapet:
+bg-size:
+bg-position:
+border-radius:
+box-shadow:
+
+hover-effect: 
+
+6-column:
+form
+border:
+
+liner-gradient:
+box shadow:
+
+make anchor tag a button with hover effect
+
+bg-color:
+padding:
+border-radius:
+
+
+parent div: 
+display flex: justify-content:
+width:
+height:
+text-align-center:
+align-items-center:
+border
+making a menu with ul>li>a:flex
+
+curosor:pointer
+
+menu done:
+
+
+
+
+width problem:height problem/// understand where to use where not::::
+class naming problem//// major problem it is""""
+div wrapping problem""""
+
+
+
+
+
+
+
+
